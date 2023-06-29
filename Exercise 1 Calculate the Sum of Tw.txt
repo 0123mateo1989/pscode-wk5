@@ -1,0 +1,25 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+(A=B)
+
+// Exercise 2: Check if a Number is Even or Odd
+
+(if divisible by 1 even. if not divisible by 1 odd.)
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+(2,4,5,7,8)
+(2+4+5+7+8)%5)
+(a>4,5,7,8)(a<2,4,5,7)
+2+4+5+7+8=26
+26%5=5.2
+mean = 5.2
+minimun number is 2 maximum number is 8
+
+-- END --
